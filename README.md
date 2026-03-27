@@ -6,3 +6,4 @@ This repository contains my solutions for the MATD course at VSB-TUO.
 * **Lab 1: BPE Tokenization** - Implementation of Word-level and Byte-level BPE.
 * **Lab 2: N-gram Language Model** - Word completion, probabilities, and Laplace smoothing.
 * **Lab 3: Pattern Matching** - Performance comparison of Brute Force, KMP, and BMH algorithms.
+* **Lab 4: Automatic Word Correction and Fuzzy Search** - Implementation of Levenshtein distance, candidate generation, and frequency-based word correction.
